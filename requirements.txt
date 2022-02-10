@@ -1,0 +1,13 @@
+urllib3
+datetime
+keras
+pandas
+numpy
+matplotlib
+sklearn
+scipy
+pandas_datareader
+seaborn
+statsmodels
+tensorflow
+pymongo[srv]
