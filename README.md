@@ -7,22 +7,20 @@ CPU: Intel 8- Core i7-11800
 
 GPU: RTX 3060
 
-Pytorch 1.10 with cuda11.3 cudnn8.0
-
 ## External libraries:
 
-urllib3
-datetime
 keras
+
 pandas
-numpy
-matplotlib
+
 sklearn
-scipy
-pandas_datareader
+
 seaborn
+
 statsmodels
+
 tensorflow
+
 pymongo[srv]
 
 # 1. Brief introduction
